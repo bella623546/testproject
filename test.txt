@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file
+=======
+test project
+>>>>>>> bd5a41a9f75a2fcb9ec62456349d85072ee25a8f
